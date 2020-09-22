@@ -1,2 +1,2 @@
-# BJMJS-JavaWeb
-BJMJS.STUDIO website
+# developerevan-JavaWeb
+evanstudio website
